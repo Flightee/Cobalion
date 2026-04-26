@@ -1,4 +1,4 @@
-## 🚀 Cobalion — Pokémon GO Coordinates Bot
+## ⚡ Real-time Pokémon GO coords — Private Service (Cobalion)
 
 ### 🇪🇸 Español
 
