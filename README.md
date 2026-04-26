@@ -1,5 +1,14 @@
-## ⚡ Real-time Pokémon GO coords — Private Service (Cobalion)
+<p align="center">
+  <img src="logo.png" width="250"/>
+</p>
 
+<h1 align="center">Cobalion</h1>
+<p align="center">Pokémon GO Real-Time Coordinates Bot</p><p align="center">
+  <img src="logo.png" width="250"/>
+</p>
+
+<h1 align="center">Cobalion</h1>
+<p align="center">Pokémon GO Real-Time Coordinates Bot</p>
 ### 🇪🇸 Español
 
 ¿Cansado de perder Pokémon perfectos?
