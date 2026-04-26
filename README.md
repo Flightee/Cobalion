@@ -35,11 +35,6 @@ Con **Cobalion** recibes **coordenadas en tiempo real**, filtradas exactamente s
 
 ---
 
-### 🧪 Acceso de prueba
-
-* Canal demo en vivo
-* Pokémon 100 IV en tiempo real
-
 👉 Acceso completo bajo suscripción
 
 ---
@@ -86,11 +81,6 @@ With **Cobalion**, you get **real-time coordinates**, fully filtered based on yo
 * Runs 24/7
 
 ---
-
-### 🧪 Trial Access
-
-* Live demo channel
-* Real-time 100 IV Pokémon
 
 👉 Full access via subscription
 
@@ -140,11 +130,6 @@ Con **Cobalion** recibes **coordenadas en tiempo real**, filtradas exactamente s
 
 ---
 
-### 🧪 Acceso de prueba
-
-* Canal demo en vivo
-* Pokémon 100 IV en tiempo real
-
 👉 Acceso completo bajo suscripción
 
 ---
@@ -191,11 +176,6 @@ With **Cobalion**, you get **real-time coordinates**, fully filtered based on yo
 * Runs 24/7
 
 ---
-
-### 🧪 Trial Access
-
-* Live demo channel
-* Real-time 100 IV Pokémon
 
 👉 Full access via subscription
 
