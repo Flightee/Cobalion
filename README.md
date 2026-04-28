@@ -39,6 +39,7 @@ Con **Cobalion** recibes **coordenadas en tiempo real**, filtradas exactamente s
 ### 📩 Contacto
 
 💬 Discord: **flightee**
+
 😉Prueba gratuita comando /pokebuscar 
 
 👉 Escríbeme para obtener acceso
@@ -83,6 +84,7 @@ With **Cobalion**, you get **real-time coordinates**, fully filtered based on yo
 ### 📩 Contact
 
 💬 Discord: **flightee**
+
 😉Free trial of the /pokebuscar command
 
 👉 Message me for access
